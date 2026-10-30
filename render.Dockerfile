@@ -3,4 +3,4 @@
 # plan, and the same image the project tests and ships).
 # A daily scheduled task bumps the tag below to the newest release; each
 # commit to main makes Render redeploy. Keep the FROM line format unchanged.
-FROM ghcr.io/tashfeenahmed/freellmapi:v0.16.11
+FROM ghcr.io/tashfeenahmed/freellmapi:v0.16.12
